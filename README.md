@@ -7,6 +7,10 @@ Using the Global Superstore dataset, I explored sales performance, profitability
 
 The dashboard was created by following a guided Tableau tutorial and applying data visualization techniques.
 
+## Dashboard Preview
+
+![Global Superstore Tableau Dashboard](Screenshot%202026-10-16%20011917.png)
+
 ## Tools and Technologies
 - Tableau Desktop
 - Microsoft Excel
